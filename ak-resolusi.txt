@@ -1,7 +1,11 @@
 AK RESOLUSI:
 - Belajar yutub Web Programming UNPAS
-  - 01 HTML Dasar
-  - 02 CSS Dasar
-  - 03 CSS Layouting
+  01 HTML Dasar
+  02 CSS Dasar
+  03 CSS Layouting
+    1 CSS Layouting
+    2 CSS UNIT
+    3 Belajar FLEXBOX4 CSS GRID
   - 06 GIT & GITHUB
  - Membuai profil asepkurniadi dgn HTML & CSS
+ 
