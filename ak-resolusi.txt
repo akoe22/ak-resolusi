@@ -3,4 +3,5 @@ AK RESOLUSI:
   - 01 HTML Dasar
   - 02 CSS Dasar
   - 03 CSS Layouting
-  = 06 GIT & GITHUB
+  - 06 GIT & GITHUB
+ - Membuai profil asepkurniadi dgn HTML & CSS
